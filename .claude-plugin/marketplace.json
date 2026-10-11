@@ -1,0 +1,12 @@
+{
+  "name": "quietforge",
+  "description": "Quietforge tools for Claude Code",
+  "owner": { "name": "Quietforge" },
+  "plugins": [
+    {
+      "name": "quietforge-guard",
+      "source": "./plugins/quietforge-guard",
+      "description": "Hard budget limits for Claude Code: stops runaway sessions before they burn your money, plus spending reports."
+    }
+  ]
+}
