@@ -1,4 +1,5 @@
 ---
+allowed-tools: Bash(node:*)
 description: Set Quietforge Guard budgets, e.g. /quietforge-guard:budget session 20 daily 100
 argument-hint: session <usd> daily <usd>
 ---
