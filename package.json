@@ -2,9 +2,28 @@
   "name": "quietforge-guard",
   "version": "0.1.0",
   "description": "Hard budget limits and spending reports for Claude Code",
-  "bin": { "qfguard": "plugins/quietforge-guard/bin/qfguard.js" },
-  "scripts": { "test": "node --test test/guard.test.js" },
-  "engines": { "node": ">=18" },
+  "bin": {
+    "qfguard": "plugins/quietforge-guard/bin/qfguard.js"
+  },
+  "scripts": {
+    "test": "node --test test/guard.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
   "license": "MIT",
-  "keywords": ["claude-code", "claude", "budget", "cost", "tokens", "usage", "plugin"]
+  "keywords": [
+    "claude-code",
+    "claude",
+    "budget",
+    "cost",
+    "tokens",
+    "usage",
+    "plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristijonas11/quietforge-guard"
+  },
+  "homepage": "https://github.com/kristijonas11/quietforge-guard"
 }

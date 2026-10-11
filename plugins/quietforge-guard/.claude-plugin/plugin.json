@@ -2,7 +2,18 @@
   "name": "quietforge-guard",
   "version": "0.1.0",
   "description": "Hard budget limits for Claude Code: stops runaway sessions before they burn your money, plus spending reports.",
-  "author": { "name": "Quietforge" },
+  "author": {
+    "name": "Quietforge"
+  },
   "license": "MIT",
-  "keywords": ["budget", "cost", "usage", "tokens", "spending", "guardrails"]
+  "keywords": [
+    "budget",
+    "cost",
+    "usage",
+    "tokens",
+    "spending",
+    "guardrails"
+  ],
+  "homepage": "https://github.com/kristijonas11/quietforge-guard",
+  "repository": "https://github.com/kristijonas11/quietforge-guard"
 }
