@@ -15,5 +15,10 @@
     "guardrails"
   ],
   "homepage": "https://github.com/kristijonas11/quietforge-guard",
-  "repository": "https://github.com/kristijonas11/quietforge-guard"
+  "repository": "https://github.com/kristijonas11/quietforge-guard",
+  "displayName": "Quietforge Guard",
+  "privacyPolicyUrl": "https://github.com/kristijonas11/quietforge-guard/blob/main/PRIVACY.md",
+  "supportUrl": "https://github.com/kristijonas11/quietforge-guard/issues",
+  "documentationUrl": "https://github.com/kristijonas11/quietforge-guard#readme",
+  "termsOfServiceUrl": "https://github.com/kristijonas11/quietforge-guard/blob/main/LICENSE"
 }
